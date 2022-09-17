@@ -1,0 +1,22 @@
+.bg-img{
+    /* background-image: url(../assets/images/pexels-jason-villanueva-851555.jpg); */
+    background:linear-gradient(0deg, rgba(16, 15, 16, 0.3), rgba(0, 0, 0, 0.3)), url(../assets/images/pexels-jason-villanueva-851555.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.banner-caption{
+    padding: 164px 0;
+}
+.banner-caption h1{
+    font-size: 62px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.banner-caption h3{
+    font-size: 36px;
+    font-weight: bold;
+    color: #fff;
+    padding-top: 42px;
+}
