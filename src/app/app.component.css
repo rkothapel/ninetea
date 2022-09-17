@@ -20,3 +20,29 @@
     color: #fff;
     padding-top: 42px;
 }
+.coffee-section img{
+    width: 100%;
+}
+.coffee-section-content{
+    padding: 79px 65px;
+}
+.coffee-section-content h2{
+    font-size: 41px;
+}
+.coffee-section-content p {
+    padding-top: 38px;
+    font-size: 16px;
+}
+.banner-2-sticky{
+    /* background-image: url(../assets/images/banner-2.jpg); */
+    background: url(../assets/images/coffee-seeds.jpg) no-repeat center center fixed;
+    max-height: 900px;
+    min-height: 750px;
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    
+}
+.overlay{
+    height: 100%;
+    background: rgba(33,37,41,.85);
+}
